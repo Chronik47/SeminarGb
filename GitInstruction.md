@@ -28,4 +28,4 @@
 
 ## 3. Конфликт веток
 
-* *git branch* -
+* *git branch_name* - команда создающая ветку с именем *branch_name*
