@@ -1,3 +1,3 @@
 # Инструкция работа с гитхабом, удалёный репозиторий.
 
-1. Первые команды которые предложит github [1. git init 2.  git add README(пишим капсом).md  3. git commit -m"first commit"]
+1. Первые команды которые предложит github [1. git init 2.  git add README(пишим капсом при создание).md  3. git commit -m"first commit"]
